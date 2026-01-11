@@ -1,11 +1,11 @@
 # ad-rotter
 Why block ads when you can replace them with Subway Surfers gameplay?
 
-**This submission is for the joke category!**
+**This submission is for the joke category for SB Hacks XII!**
 
 ## Inspiration
 
-We've all seen Gen Alpha brainrot on the internet. Sure, some of us may roll our eyes in disgust at the absurdity of all (trust me, I am right by your side), but at its core, it is still something that makes us laugh, one way or another. Any of us that have siblings, children, nieces, or nephews know how their eyes glitter when they see brainrot. Ultimately, my goal was to build a project that makes people smile, and I believe that I have accomplished that objective!
+We've all seen Gen Alpha brainrot on the internet. Sure, some of us may roll our eyes in disgust at the absurdity of it all (trust me, I am right by your side), but at its core, it is still something that makes us laugh, one way or another. Any of us that have siblings, children, nieces, or nephews know how their eyes glitter when they see brainrot. Ultimately, my goal was to build a project that makes people smile, and I believe that I have accomplished that objective!
 
 ## What it does
 
